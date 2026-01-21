@@ -1,7 +1,10 @@
-# WhatsApp RAG Chatbot (Docs + DB) — No GPU
+# WhatsApp RAG Chatbot (Docs + DB)
+
+![Academic Demo](screenshots/demo_academic.png)
+![Campus Demo](screenshots/demo_campus.png)
 
 A WhatsApp-integrated chatbot that answers user questions using **Retrieval-Augmented Generation (RAG)** from uploaded documents (PDF/TXT) and fetches structured data from an SQL database (e.g., FAQs, Student Queries).  
-Designed to run **without a GPU** using CPU embeddings and the **Groq API** for ultra-fast, free LLM inference.
+Designed to run using CPU embeddings and the **Groq API** for ultra-fast, free LLM inference.
 
 ---
 

@@ -41,11 +41,6 @@ async def whatsapp_webhook(
             else:
                 response_text = "No FAQs found in database."
                 
-        elif "contact" in message_body.lower():
-            # Retrieve contacts... 
-            # (Assuming we implement get_all_contacts in queries if needed, simplified here)
-            response_text = "Contact admin@example.com for more info."
-            
         else:
             # 3. RAG Pipeline
             # Retrieve context
