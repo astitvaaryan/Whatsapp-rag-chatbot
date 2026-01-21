@@ -1,0 +1,64 @@
+Welcome to the University of Future.
+
+=== GENERAL INFORMATION ===
+Office timings are Monday to Friday 9 AM to 5 PM.
+The campus is closed on weekends and public holidays.
+The main campus location: 123 Future Ave, Tech City, Mars Colony 4.
+Contact number: +1-555-0199.
+Email: info@future.edu.
+
+=== ADMISSIONS ===
+The registration fee is $50 USD, non-refundable.
+To apply, visit our website at www.future.edu/apply.
+The application deadline for the Fall semester is August 15th.
+The application deadline for the Spring semester is December 15th.
+Eligibility criteria: Must have completed high school with 75% grades or equivalent.
+International students must provide a valid English proficiency test score (IELTS 6.5+ or TOEFL 90+).
+
+=== ACADEMIC CALENDAR ===
+The Fall semester starts on September 1st and ends on December 20th.
+The Spring semester starts on January 15th and ends on May 10th.
+Summer term is optional and runs from June 1st to July 30th.
+
+=== COURSES OFFERS ===
+1. Bachelor of Computer Science (BCS)
+   - Duration: 4 years
+   - Focus: AI, Robotics, Quantum Computing
+   - Credits: 120
+
+2. Bachelor of Space Engineering (BSE)
+   - Duration: 4 years
+   - Focus: Propulsion, Orbital Mechanics
+   - Credits: 130
+
+3. Master of Data Science (MDS)
+   - Duration: 2 years
+   - Prerequisite: Bachelor's in STEM field
+   
+=== FEES & SCHOLARSHIPS ===
+Tuition fee per credit is $200.
+Housing fee: $500 per month (On-campus dorms).
+Meal plan: $300 per month.
+Scholarships are available for top 10% students based on entrance exam scores.
+Financial aid forms can be submitted via the student portal.
+
+=== FACILITIES ===
+Library: Open 24/7 during exam weeks. Normal hours: 8 AM - 10 PM.
+Gym: Free for all registered students. Located in Building C.
+Cafeteria: Serving organic and synthetic food options.
+Health Center: Located in Building A, Ground Floor.
+
+=== IT SUPPORT ===
+For WiFi access, use your student ID as username and DOB as password.
+IT Helpdesk is located in the Library, 2nd floor.
+Email support: it@future.edu.
+
+=== INTERNSHIPS ===
+Students are eligible for internships after completing 60 credits.
+The implementation of the internship program partners with top tech firms like Google, SpaceX, and Neuralink.
+The internship duration is typically 3 months and requires full-time commitment.
+
+=== CODE OF CONDUCT ===
+Usage of AI tools for assignments is permitted but must be disclosed.
+Plagiarism will result in immediate suspension.
+Campus is a smoke-free zone.
